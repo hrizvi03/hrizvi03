@@ -9,3 +9,4 @@
 📧 hiba.rizvi.swe@gmail.com
 
 👾 Currently working on a game project "Escape from Chicago" in PyGame, personifying the fear of taking public transportation in Chicago into a comedic thriller game.
+📲 Currently designing a re-imagined UI and UX concept of the "Flo" App, a female health app providing menstrual tracking and cycle predictions.
