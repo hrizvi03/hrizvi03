@@ -1,6 +1,6 @@
 ### Hi, I'm Hiba! 
 
-👩🏽‍💻 I’m currently studying Software Engineering as third-year Honors undergraduate at Loyola University Chicago.
+👩🏽‍💻 I’m currently studying Software Engineering as fourth-year Honors undergraduate at Loyola University Chicago.
 
 🔎 Actively looking for Software Engineering Internships for Summer 2025
 
