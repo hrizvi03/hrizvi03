@@ -2,12 +2,11 @@
 
 👩🏽‍💻 I’m currently studying Software Engineering as fourth-year Honors undergraduate at Loyola University Chicago.
 
-🔎 Actively looking for Software Engineering Internships for Summer 2025
+🔎 Actively looking for Software Engineering Roles 
 
-💭 Actively learning Java, Python, Pygame, and C++, along with UI/UX design concepts.
+💭 Actively learning Java, Python, and Ruby along with UI/UX design concepts.
 
 📧 hiba.rizvi.swe@gmail.com
 
-👾 Currently working on a game project "Escape from Chicago" in PyGame, personifying the fear of taking public transportation in Chicago into a comedic thriller game.
-
+👾 Currently working on a South Asian Linguistic Project using Python and APIs to connect first gen and later Pakistanis outside of their motherland to the Urdu language.
 📲 Currently designing a re-imagined UI and UX concept of the "Flo" App, a female health app providing menstrual tracking and cycle predictions.
