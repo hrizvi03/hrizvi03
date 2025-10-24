@@ -1,6 +1,7 @@
 ### Hi, I'm Hiba! 
 
-👩🏽‍💻 I’m a recent graduate with a Bachelors in Software Engineering from Loyola University Chicago.
+👩🏽‍💻 I’m a recent graduate with a Bachelors in Software Engineering from Loyola University Chicago. Check out my porfolio site: hrizvi-portfolio.vercel.app
+
 
 🔎 Actively looking for Software Engineering and AI Research positions.
 
